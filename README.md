@@ -44,16 +44,16 @@ Retail businesses needed a way to better understand customer buying patterns to 
   - Identified product pairings with high lift values (e.g., **Potato Products → Beef**, **Canned Fruit → Coffee**).
   - Suggested **cross-selling**, **bundling**, and **targeted promotions** based on the results.
 
-### 📚 Tech Stack
+## 📚 Tech Stack
 
 - **Python 3.12**
+- **Jupyter Notebook**
 - **NumPy**
 - **Pandas**
 - **Matplotlib / Seaborn**
 - **apyori (Apriori Algorithm)**
-- **Jupyter Notebook**
 
-### 🏆 Result:
+## 🏆 Result:
 
 - Discovered **strong association rules** that can improve cross-sell marketing efforts by up to **30-45%**.
 - Provided **actionable business recommendations** for better product placement and promotions.
